@@ -5,7 +5,7 @@ This is the template for starting a new project based on my **_[LIBFT](https://g
 - Be welcome to use my code, `clone` and `fork` it!
 - I will be happy if you `follow` me, or `star` this project, ecpecially if you find it usefull, or use my code!
 - For all questions be welcome to contact me in any way you want 👋
-> Here is my  mail: `elijahkash.code@gmail.com`
+> Here is my  mail: _elijahkash.code@gmail.com_
 
 ## "I created a new repo using this template. What's next?"
 
