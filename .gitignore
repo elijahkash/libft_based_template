@@ -16,3 +16,6 @@
 # This is for valgrind
 *.dSYM
 *.out*
+
+# NAME YOU PROJECT!
+new_project*
