@@ -12,7 +12,7 @@ This is the template for starting a new project based on my **_[LIBFT](https://g
 ## "I created a new repo using this template. What's next?"
 
 - make a name for your project
-- put in `Makefile`, `CMakeLists.txt` and `.gitignore`
+- put in [Makefile](/Makefile), [CMakeLists.txt](/CMakeLists.txt), [.gitignore](/.gitignore) and [launch.json](/.vscode/launch.json)
 - don't forget to exec `git submodule init; git submodule update`!
 - you are ready to compile it!
 - write code and enjoy your *_best_project_ever_*!
