@@ -13,5 +13,6 @@ This is the template for starting a new project based on my **_[LIBFT](https://g
 
 - make a name for your project
 - put in `Makefile`, `CMakeLists.txt` and `.gitignore`
+- don't forget to exec `git submodule init; git submodule update`!
 - you are ready to compile it!
 - write code and enjoy your *_best_project_ever_*!
