@@ -33,7 +33,6 @@ INCLUDE_DIRS(INC_DIRS)
 add_executable(${DST_NAME} ${PROJ_SOURCES})
 target_include_directories(${DST_NAME} PUBLIC ${LIBFT_DIR}includes/)
 target_include_directories(${DST_NAME} PUBLIC ${INC_DIRS})
-target_link_directories(${DST_NAME} PUBLIC ${LIBFT_DIR})
 target_link_libraries(${DST_NAME} libft)
 set_target_properties(${DST_NAME} PROPERTIES
 		RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}
@@ -45,7 +44,6 @@ add_dependencies(${DST_NAME} libft)
 add_executable(debug EXCLUDE_FROM_ALL ${PROJ_SOURCES})
 target_include_directories(debug PUBLIC ${LIBFT_DIR}includes/)
 target_include_directories(debug PUBLIC ${INC_DIRS})
-target_link_directories(debug PUBLIC ${LIBFT_DIR})
 target_link_libraries(debug libftdebug)
 set_target_properties(debug PROPERTIES
 		RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}
