@@ -13,6 +13,8 @@ This is the template for starting a new project based on my **_[LIBFT](https://g
 
 - make a name for your project
 - put in [Makefile](/Makefile), [CMakeLists.txt](/CMakeLists.txt), [.gitignore](/.gitignore) and [launch.json](/.vscode/launch.json)
-- don't forget to exec `git submodule add https://github.com/elijahkash/libft`!
+- don't forget to exec:
+  - `git submodule add https://github.com/elijahkash/libft` if you create new repo from template
+  - `git submodule init; git submodule update` if you clone or fork it
 - you are ready to compile it!
 - write code and enjoy your *_best_project_ever_*!
